@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bc19f886-4e10-4235-9646-2c3feb53e6a8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Easy/Plus One/a.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Easy/Search Insert Position/a.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Easy/Sqrt(x)/a.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Easy/Sqrt(x)/a.py" beforeDir="false" afterPath="$PROJECT_DIR$/Easy/Sqrt(x)/a.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +35,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.a (4)">
+  <component name="RunManager" selected="Python.test">
     <configuration name="a (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -150,10 +148,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.test" />
         <item itemvalue="Python.a (4)" />
         <item itemvalue="Python.a (3)" />
         <item itemvalue="Python.a (2)" />
-        <item itemvalue="Python.test" />
         <item itemvalue="Python.a (1)" />
       </list>
     </recent_temporary>
@@ -169,7 +167,13 @@
       <workItem from="1652527008610" duration="596000" />
       <workItem from="1653093193799" duration="6148000" />
       <workItem from="1653127502134" duration="600000" />
-      <workItem from="1653201799646" duration="2541000" />
+      <workItem from="1653201799646" duration="6384000" />
+      <workItem from="1653462148554" duration="2272000" />
+      <workItem from="1653493061780" duration="21000" />
+      <workItem from="1654136243125" duration="1981000" />
+      <workItem from="1654603009538" duration="2459000" />
+      <workItem from="1654736838237" duration="2016000" />
+      <workItem from="1654769646615" duration="844000" />
     </task>
     <servers />
   </component>
@@ -186,11 +190,13 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/LeetCode$test.coverage" NAME="test Coverage Results" MODIFIED="1653110063080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode$a__4_.coverage" NAME="a (4) Coverage Results" MODIFIED="1654137637206" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Easy/Sqrt(x)" />
+    <SUITE FILE_PATH="coverage/LeetCode$test.coverage" NAME="test Coverage Results" MODIFIED="1654770476854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$a.coverage" NAME="a Coverage Results" MODIFIED="1653095441772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Easy/LongestCommonPrefix" />
-    <SUITE FILE_PATH="coverage/LeetCode$a__3_.coverage" NAME="a (3) Coverage Results" MODIFIED="1653203525481" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Easy/Plus One" />
+    <SUITE FILE_PATH="coverage/LeetCode$a__3_.coverage" NAME="a (3) Coverage Results" MODIFIED="1653204637332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Easy/Plus One" />
     <SUITE FILE_PATH="coverage/LeetCode$a__2_.coverage" NAME="a (2) Coverage Results" MODIFIED="1653202904518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Easy/Search Insert Position" />
     <SUITE FILE_PATH="coverage/LeetCode$a__1_.coverage" NAME="a (1) Coverage Results" MODIFIED="1653095900640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Easy/ Length of Last Word" />
   </component>
